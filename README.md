@@ -23,6 +23,17 @@ Python, Flask, SQLite, HTML5, CSS3 e JavaScript.
 
 Requisitos: Python 3.10 ou superior.
 
+### Atalho para Windows (mais fácil)
+
+1. Baixe o projeto pelo botão **Code > Download ZIP** no GitHub e extraia a pasta.
+2. Certifique-se de que o Python 3.10 ou superior está instalado.
+3. Abra a pasta extraída e dê dois cliques em **INICIAR_CASASTOCK.bat**.
+4. Na primeira execução, o atalho cria o ambiente virtual e instala o Flask automaticamente.
+5. O navegador abrirá o sistema em http://127.0.0.1:5000. Mantenha aberta a janela **CasaStock - Servidor** enquanto estiver usando o sistema.
+
+Para encerrar, pressione **Ctrl+C** na janela do servidor ou feche essa janela.
+
+
 ```bash
 git clone https://github.com/miguelaviladealmeida1-eng/casastock.git
 cd casastock
